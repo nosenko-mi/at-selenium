@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "cypress": "^13.14.2",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.24.1"
+  },
+  "scripts": {
+    "test": "mocha --parallel"
+  }
+}
